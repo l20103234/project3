@@ -1,0 +1,124 @@
+{
+  "shoesBox": [
+    {
+      "id": 1,
+      "productName": "Plus Premium",
+      "price": 120000,
+      "color": "blue",
+      "image": "./upassets/shoes_blue3.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 2,
+      "productName": "Dunk High",
+      "price": 133000,
+      "color": "blue",
+      "image": "./upassets/shoes_blue4.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 3,
+      "productName": "Eir Max 90",
+      "price": 142000,
+      "color": "blue",
+      "image": "./upassets/shoes_blue5.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 4,
+      "productName": "Blue WaVe2",
+      "price": 150000,
+      "color": "blue",
+      "image": "./upassets/shoes_bluewave.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 5,
+      "productName": "Dunk Low Navy",
+      "price": 112000,
+      "color": "navy",
+      "image": "./upassets/shoes_navy.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 6,
+      "productName": "Silver Man V1",
+      "price": 170000,
+      "color": "silver",
+      "image": "./upassets/shoes_silver1.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 7,
+      "productName": "Fly to the Sky",
+      "price": 140000,
+      "color": "skyblue",
+      "image": "./upassets/shoes_skyblue1.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 8,
+      "productName": "ZoomMeeting",
+      "price": 177000,
+      "color": "white",
+      "image": "./upassets/shoes_white2.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 9,
+      "productName": "White Cloud",
+      "price": 200000,
+      "color": "white",
+      "image": "./upassets/shoes_white4.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 10,
+      "productName": "Eir Dolphin V2",
+      "price": 230000,
+      "color": "blue",
+      "image": "./upassets/shoes_whiteblue2.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 11,
+      "productName": "Ugly MJ ",
+      "price": 385000,
+      "color": "white",
+      "image": "./upassets/shoes_whiteblue3.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    },
+    {
+      "id": 12,
+      "productName": "Black Panther",
+      "price": 168000,
+      "color": "black",
+      "image": "./upassets/shoes_whitesilver1.png",
+      "wish": false,
+      "cart": false,
+      "order": 0
+    }
+  ]
+}
